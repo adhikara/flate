@@ -12,7 +12,7 @@ Then simply use `python flate.py [french word]`.
 
 This code relies on Wiktionary to translate from french to English. To make things faster, this is the order it follows to retreive the translation:
 
-* search in the local Wiktionary dump I downloaded from this (repository)[https://github.com/pquentin/wiktionary-translations]
+* search in the local Wiktionary dump I downloaded from this [repository](https://github.com/pquentin/wiktionary-translations)
 * search using the wiktionaryparser (will probably get rid of eventually)
 * search Wiktionary using a function I created
 * search Linguee (scraping)
@@ -21,7 +21,7 @@ This code also returns the infinitive's meaning for words in the past participle
 
 # warning
 
-* Linguee has rules about how it is used. Consult (them)[http://www.linguee.com/english-french/page/termsAndConditions.php]
+* Linguee has rules about how it is used. Consult [them](http://www.linguee.com/english-french/page/termsAndConditions.php)
 * This code is not finished yet. Currently it does not support lookup for terms like "l'homme", as opposed to "homme"
 * Only the first definition retrieved is returned. This is silly, I know, but I have not expanded it as I'm still testing this
 
