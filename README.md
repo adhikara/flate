@@ -21,9 +21,10 @@ This code also returns the infinitive's meaning for words in the past participle
 
 # warning
 
-* Linguee has rules about how it is used. Consult [them](http://www.linguee.com/english-french/page/termsAndConditions.php)
-* This code is not finished yet. Currently it does not support lookup for terms like "l'homme", as opposed to "homme"
+* Linguee has [rules](http://www.linguee.com/english-french/page/termsAndConditions.php) about how it is used
+* This code is not finished yet -- currently it does not support lookup for terms like "l'homme", as opposed to "homme"
 * Only the first definition retrieved is returned. This is silly, I know, but I have not expanded it as I'm still testing this
+* I have not tested it for all cases of French words possible; I have covered the common ones, but definitely not all of them.
 
 # the future
 
